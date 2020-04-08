@@ -23,3 +23,8 @@ The robot also has a laser sensor that triangulates the position thanks to the l
 The code is developed using the program APOLO, and MATLAB.
 APOLO is a robot simulator that allows the simulation of this project.
 
+
+Project authors:
+Adrián Caro 
+Hugo Rajado 
+Pablo Dopazo
