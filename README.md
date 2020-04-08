@@ -25,6 +25,9 @@ APOLO is a robot simulator that allows the simulation of this project.
 
 
 Project authors:
+
 Adrián Caro 
+
 Hugo Rajado 
+
 Pablo Dopazo
